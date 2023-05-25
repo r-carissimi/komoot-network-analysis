@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="sport" attr.type="string"/>
+<key id="d2" for="node" attr.name="country" attr.type="string"/>
+<key id="d1" for="node" attr.name="km" attr.type="long"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="813735907910">
+  <data key="d0">James</data>
+  <data key="d1">663</data>
+  <data key="d2">GB</data>
+  <data key="d3">racebike</data>
+</node>
+<node id="660023066061">
+  <data key="d0">KJA1990</data>
+  <data key="d1">0</data>
+  <data key="d2">GB</data>
+  <data key="d3">racebike</data>
+</node>
+<node id="444811548445">
+  <data key="d0">Katherine Moore</data>
+  <data key="d1">26918</data>
+  <data key="d2">GB</data>
+  <data key="d3">racebike</data>
+</node>
+<node id="658070566843">
+  <data key="d0">aranw</data>
+  <data key="d1">0</data>
+  <data key="d2">GB</data>
+  <data key="d3">racebike</data>
+</node>
+<node id="betty">
+  <data key="d0">Betty Achrainer</data>
+  <data key="d1">17912</data>
+  <data key="d2">DE</data>
+  <data key="d3">mtb_easy</data>
+</node>
+<node id="1382684320656">
+  <data key="d0">Abby</data>
+  <data key="d1">98</data>
+  <data key="d2">GB</data>
+  <data key="d3">hike</data>
+</node>
+<node id="1189125754755">
+  <data key="d0">James</data>
+  <data key="d1">2978</data>
+  <data key="d2">GB</data>
+  <data key="d3">mtb</data>
+</node>
+<node id="1024020220028">
+  <data key="d0">Lee Worker</data>
+  <data key="d1">16226</data>
+  <data key="d2">GB</data>
+  <data key="d3">mtb_easy</data>
+</node>
+<node id="506348671596">
+  <data key="d0">Ned</data>
+  <data key="d1">4872</data>
+  <data key="d2">GB</data>
+  <data key="d3">mtb</data>
+</node>
+<node id="1136281104054">
+  <data key="d0">TomW</data>
+  <data key="d1">131</data>
+  <data key="d2">GB</data>
+  <data key="d3">mtb</data>
+</node>
+<node id="384449563507">
+  <data key="d0">VeloElle</data>
+  <data key="d1">25265</data>
+  <data key="d2">GB</data>
+  <data key="d3">touringbicycle</data>
+</node>
+<node id="2137732485327">
+  <data key="d0">Matt</data>
+  <data key="d1">55</data>
+  <data key="d2">GB</data>
+  <data key="d3">hike</data>
+</node>
+<edge source="813735907910" target="660023066061"/>
+<edge source="813735907910" target="444811548445"/>
+<edge source="813735907910" target="658070566843"/>
+<edge source="813735907910" target="betty"/>
+<edge source="813735907910" target="1382684320656"/>
+<edge source="813735907910" target="1189125754755"/>
+<edge source="813735907910" target="1024020220028"/>
+<edge source="813735907910" target="506348671596"/>
+<edge source="813735907910" target="1136281104054"/>
+<edge source="813735907910" target="384449563507"/>
+<edge source="813735907910" target="2137732485327"/>
+<edge source="660023066061" target="813735907910"/>
+<edge source="660023066061" target="658070566843"/>
+<edge source="444811548445" target="506348671596"/>
+<edge source="444811548445" target="384449563507"/>
+<edge source="658070566843" target="813735907910"/>
+<edge source="658070566843" target="660023066061"/>
+<edge source="betty" target="444811548445"/>
+<edge source="betty" target="1189125754755"/>
+<edge source="1382684320656" target="813735907910"/>
+<edge source="1189125754755" target="betty"/>
+<edge source="1024020220028" target="384449563507"/>
+<edge source="506348671596" target="betty"/>
+<edge source="506348671596" target="444811548445"/>
+<edge source="506348671596" target="384449563507"/>
+<edge source="1136281104054" target="813735907910"/>
+<edge source="1136281104054" target="1189125754755"/>
+<edge source="1136281104054" target="2137732485327"/>
+<edge source="384449563507" target="444811548445"/>
+<edge source="2137732485327" target="813735907910"/>
+<edge source="2137732485327" target="1189125754755"/>
+<edge source="2137732485327" target="1136281104054"/>
+</graph></graphml>
